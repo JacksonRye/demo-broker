@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6c1b1736.css","mappings":"AAAA,EACE,qBAAsB,CAGtB,2CAA+C,CAF/C,QAAS,CACT,SAEF,CAEA,SACE,eACF","sources":["App.css"],"sourcesContent":["* {\n  box-sizing: border-box;\n  margin: 0;\n  padding: 0;\n  font-family: \"Encode Sans Expanded\", sans-serif;\n}\n\nspace-up {\n  margin-top: 10px;\n}\n"],"names":[],"sourceRoot":""}
